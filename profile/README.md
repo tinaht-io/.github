@@ -1,6 +1,6 @@
 <div align="center">
 
-![Tinaht Technology Services](https://export-download.canva.com/rvNXQ/DAHF09rvNXQ/-1/0/0001-6520585350658191245.png)
+![Tinaht Technology Services](../blob/main/Tinaht%20-%20GitHub%20README%20Banner%202.png?raw=true)
 
 # Tinaht Technology Services
 
