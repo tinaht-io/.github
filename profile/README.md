@@ -1,6 +1,6 @@
 <div align="center">
 
-![Tinaht Technology Services](Tinaht%20-%20GitHub%20README%20Banner%202.png)
+![Tinaht Technology Services](../blob/main/Tinaht%20-%20GitHub%20README%20Banner%202.png?raw=true)
 
 # Tinaht Technology Services
 
