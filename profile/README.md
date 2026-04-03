@@ -20,7 +20,7 @@
 |---------|-------------|
 | 🤖 **AI Automation** | n8n-powered workflows that eliminate repetitive tasks |
 | 🐳 **DevOps & Docker** | Containerized infrastructure built for reliability |
-| 🌐 **Network Infrastructure** | Aruba-certified network design & consulting |
+| 🌐 **Network Infrastructure** | Network design & consulting |
 | 🔒 **Cybersecurity** | Practical security assessments for growing businesses |
 | ⚡ **Web Performance** | Faster load times & stronger Core Web Vitals |
 
